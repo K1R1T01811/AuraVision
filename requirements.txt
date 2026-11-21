@@ -1,0 +1,26 @@
+# Core
+
+
+# Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.9.0
+Pillow>=10.0.0
+
+# PyTorch (CPU or GPU – install matching version separately if needed)
+torch>=2.1.0
+torchvision>=0.16.0
+
+# HuggingFace ecosystem
+transformers>=4.45.0
+accelerate>=0.30.0
+huggingface-hub>=0.23.0
+safetensors>=0.4.3
+
+# Grounding DINO dependencies
+timm>=0.9.16
+
+# LLM (local)
+ollama>=0.1.8
+
+# Utilities
+numpy>=1.26.0
